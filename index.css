@@ -13,8 +13,12 @@
     height: 2em;
 }
 .hero-slider-next {
-    right: -100px !important;
+    right: -60px !important;
 }
 .hero-slider-prev {
-    left: -100px !important;
+    left: -60px !important;
+}
+.slider-icon {
+    width: 2.5rem;
+    height: 2.5rem;
 }
