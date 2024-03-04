@@ -1,0 +1,20 @@
+.top_banner_hidden {display: none;}
+.store-icon::before {
+    display: none
+}
+#hero-slider-progress {
+    top: 25px;
+}
+#hero-slider-progress svg:nth-child(1) {
+    display: none;
+}
+.icon {
+    width: 2em;
+    height: 2em;
+}
+.hero-slider-next {
+    right: -100px !important;
+}
+.hero-slider-prev {
+    left: -100px !important;
+}
