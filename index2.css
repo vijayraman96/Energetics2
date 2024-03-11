@@ -51,8 +51,9 @@ body {
     transform: translateY(-82px);
 }
 .main_bar {
-    background-color: rgba(255, 255, 255, 0.9);
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(15px) saturate(168%);
+    -webkit-backdrop-filter: blur(15px) saturate(168%);
+    background-color: rgba(255, 255, 255, 0.48);
     height:70px;
     position: fixed;
     top:0;
