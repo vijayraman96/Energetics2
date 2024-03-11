@@ -139,6 +139,9 @@ a {
 .highlight {
     color: #fff !important;
 }
+.hero {
+    padding-top: 160px !important;
+}
 @media(max-width: 600px) {
     .secondary-header-div-a  {
         margin: 10px 0;
